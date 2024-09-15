@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="ZWF5jNBcS8PosY22Nc6u">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="200" width="470" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-2" value="USUARIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="295" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsnpIG-9W8Aff6hpmHti-2" target="FsnpIG-9W8Aff6hpmHti-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="365" as="sourcePoint" />
+            <mxPoint x="230" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Enviar sugerencias de deportes&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="295" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-5" value="Almacenar Sugerencias de deportes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="295" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsnpIG-9W8Aff6hpmHti-4" target="FsnpIG-9W8Aff6hpmHti-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="415" as="sourcePoint" />
+            <mxPoint x="390" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FsnpIG-9W8Aff6hpmHti-8" target="FsnpIG-9W8Aff6hpmHti-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-8" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="455" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FsnpIG-9W8Aff6hpmHti-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Revisar sugerencias de deportes" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="115" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

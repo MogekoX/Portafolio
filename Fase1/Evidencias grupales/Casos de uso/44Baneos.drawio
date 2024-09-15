@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.12">
+  <diagram name="Página-1" id="qIUm-NXkEGmmr5HEpveH">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wsyl__wpP291152e83Fh-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="140" width="521" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VB7e-qRNLuo35ooVeU83-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsyl__wpP291152e83Fh-1" target="wsyl__wpP291152e83Fh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsyl__wpP291152e83Fh-1" value="Usuario Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syUm3DsR0cCa5fwL_SAr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsyl__wpP291152e83Fh-5" target="wsyl__wpP291152e83Fh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsyl__wpP291152e83Fh-5" value="Identificar Jugadores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="syUm3DsR0cCa5fwL_SAr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsyl__wpP291152e83Fh-6" target="syUm3DsR0cCa5fwL_SAr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VB7e-qRNLuo35ooVeU83-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsyl__wpP291152e83Fh-6" target="VB7e-qRNLuo35ooVeU83-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wsyl__wpP291152e83Fh-6" value="Aplicar Baneo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="syUm3DsR0cCa5fwL_SAr-6" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="syUm3DsR0cCa5fwL_SAr-10" value="Registrar Baneo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VB7e-qRNLuo35ooVeU83-2" value="Enviar Notificacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VB7e-qRNLuo35ooVeU83-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VB7e-qRNLuo35ooVeU83-2" target="syUm3DsR0cCa5fwL_SAr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VB7e-qRNLuo35ooVeU83-5" value="Recibe Notificacion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="VB7e-qRNLuo35ooVeU83-4">
+          <mxGeometry x="0.1304" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

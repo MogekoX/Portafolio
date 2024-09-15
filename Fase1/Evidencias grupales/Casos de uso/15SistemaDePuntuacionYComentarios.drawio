@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="Zwe86IcShc3qNW_NUVpP">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="520" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-2" value="Usuario alumno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-3" value="Calificar con estrellas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-4" value="Dejar comentarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-5" value="" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLZqWjHU1x8Pnr4q3d32-2" target="ZLZqWjHU1x8Pnr4q3d32-4">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="470" as="sourcePoint" />
+            <mxPoint x="170" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-8" value="" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLZqWjHU1x8Pnr4q3d32-2" target="ZLZqWjHU1x8Pnr4q3d32-3">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="275" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-9" value="Contribuir a la reputación del usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLZqWjHU1x8Pnr4q3d32-4" target="ZLZqWjHU1x8Pnr4q3d32-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="480" as="sourcePoint" />
+            <mxPoint x="660" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZLZqWjHU1x8Pnr4q3d32-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZLZqWjHU1x8Pnr4q3d32-3" target="ZLZqWjHU1x8Pnr4q3d32-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="501" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

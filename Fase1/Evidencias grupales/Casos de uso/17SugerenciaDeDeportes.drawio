@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="3QZ4UFcPAK9LROXMiNvU">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cngaaA0FAypsKkVsdO9k-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-1" value="&lt;div&gt;Usuario Alumno&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-2" value="Sugerencia de deportes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PkQnS3EfuYEt6fyRdMNR-1" target="PkQnS3EfuYEt6fyRdMNR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="310" as="sourcePoint" />
+            <mxPoint x="340" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-4" value="Ver deportes sugeridos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.01;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PkQnS3EfuYEt6fyRdMNR-4" source="PkQnS3EfuYEt6fyRdMNR-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="330" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="PkQnS3EfuYEt6fyRdMNR-4" source="PkQnS3EfuYEt6fyRdMNR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-7" value="Escoger deporte recomendado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cngaaA0FAypsKkVsdO9k-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.01;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PkQnS3EfuYEt6fyRdMNR-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="461" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PkQnS3EfuYEt6fyRdMNR-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

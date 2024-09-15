@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="oS9AgeRQVYXbbB2SiegJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="duETM1wuGLM7rdqJPm-u-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="355" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-3" value="Visualizar eventos deportivos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-4" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="duETM1wuGLM7rdqJPm-u-2">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="210" y="490" as="sourcePoint" />
+            <mxPoint x="350" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-7" value="Unirse a evento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-8" value="Mostrar detalles(lugar, fecha, hora)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-12" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="duETM1wuGLM7rdqJPm-u-7" target="duETM1wuGLM7rdqJPm-u-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="540" y="290" as="sourcePoint" />
+            <mxPoint x="700" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="duETM1wuGLM7rdqJPm-u-13" value="Include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="duETM1wuGLM7rdqJPm-u-8" target="duETM1wuGLM7rdqJPm-u-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="541" y="415" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

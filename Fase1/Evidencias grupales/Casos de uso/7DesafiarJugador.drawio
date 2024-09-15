@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="DxRtxhWNo8vzGgbxpDtG">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="630" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-2" value="Usuario alumno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-3" value="Desafiar a otro jugador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="265" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-4" value="Incluir detalles(fecha, lugar,&lt;div&gt;hora, deporte)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nqjbYZ8wNo6-ZZ4A8esg-4" target="nqjbYZ8wNo6-ZZ4A8esg-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-6" value="Notificar a jugadores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-7" value="Usuario alumno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-8" value="Aceptar o cancelar desafío" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="265" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-9" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqjbYZ8wNo6-ZZ4A8esg-7" target="nqjbYZ8wNo6-ZZ4A8esg-8">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="630" y="420" as="sourcePoint" />
+            <mxPoint x="790" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-13" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nqjbYZ8wNo6-ZZ4A8esg-2">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nqjbYZ8wNo6-ZZ4A8esg-6" target="nqjbYZ8wNo6-ZZ4A8esg-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="sourcePoint" />
+            <mxPoint x="510" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqjbYZ8wNo6-ZZ4A8esg-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqjbYZ8wNo6-ZZ4A8esg-8" target="nqjbYZ8wNo6-ZZ4A8esg-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="380" as="sourcePoint" />
+            <mxPoint x="800" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

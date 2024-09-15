@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0 (Edition std-1)" version="24.7.10">
+  <diagram name="Página-1" id="9sNW8COKwPtPVBaZg_Ie">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="670" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-1" target="JJga_wTEgv_-3T2nTpnO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-1" value="Usuario Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-3" target="JJga_wTEgv_-3T2nTpnO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="JJga_wTEgv_-3T2nTpnO-10">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-3" value="Acceder al panel de control" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-5" value="Gestionar roles y configuraciones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-6" value="Visualizar actividades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="295" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-7" value="Modificar permisos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-8" value="Añadir o eliminar usuarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="115" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-9" target="JJga_wTEgv_-3T2nTpnO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="JJga_wTEgv_-3T2nTpnO-12">
+          <mxGeometry x="0.1384" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-9" target="JJga_wTEgv_-3T2nTpnO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="JJga_wTEgv_-3T2nTpnO-13">
+          <mxGeometry x="-0.0119" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-9" target="JJga_wTEgv_-3T2nTpnO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="JJga_wTEgv_-3T2nTpnO-14">
+          <mxGeometry x="-0.0776" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJga_wTEgv_-3T2nTpnO-9" target="JJga_wTEgv_-3T2nTpnO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="JJga_wTEgv_-3T2nTpnO-15">
+          <mxGeometry x="-0.0749" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJga_wTEgv_-3T2nTpnO-9" value="Gestionar usuarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
